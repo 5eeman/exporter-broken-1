@@ -1,0 +1,5 @@
+This should crash
+
+{[ for group in @ds.nonExistingMethod("Broken") ]}
+{[/]}
+{[/]}

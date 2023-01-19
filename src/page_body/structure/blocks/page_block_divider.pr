@@ -1,5 +1,0 @@
-{* Fetch block from injection context, expected type 'Divider' *}
-{[ const block = context /]}
-
-{* Create divider element *}
-<hr class="divider">

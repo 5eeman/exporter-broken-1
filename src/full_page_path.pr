@@ -1,2 +1,0 @@
-{[ const page = ds.documentationPageById(pageId) /]}
-{{ pageUrl(page, null) }}

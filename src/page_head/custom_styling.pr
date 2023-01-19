@@ -1,5 +1,0 @@
-{* Inject any custom CSS provided by the user *}
-{{ exportConfiguration().advancedCustomizationCustomCSS }}
-
-{* Inject styles *}
-{* TODO *}
