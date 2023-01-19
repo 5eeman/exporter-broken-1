@@ -10,8 +10,7 @@
     "usesBrands": false,
     "config": {
         "sources": "sources.json",
-        "output": "output.json",
-        "js": "src/js_helpers.js"
+        "output": "output.json"
     },
     "engines": {
         "pulsar": "1.0.0",
