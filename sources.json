@@ -1,2 +1,7 @@
 {
+    "broken.pr": {
+        "targets_ci": true,
+        "targets_documentation": true,
+        "context": "documentationPage"
+    }
 }
